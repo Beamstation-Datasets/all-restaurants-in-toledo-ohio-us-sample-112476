@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Toledo, Ohio with a population of over 270k. This dataset includes every active restaurant listing filtered by the Restaurants category group, with business profiles, review analytics, competitive rankings, and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Toledo, Ohio, US",
+  "export_job_id": "559cfbd7-7089-4252-ae5a-bced82e3e07e",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 112476,
+  "location_name": "Toledo",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-toledo-ohio-us-sample-112476",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/112476/beamstation_112476_restaurants-us-oh_SAMPLE_DIST.csv",
+  "sample_pct": 9.92,
+  "sample_records": 75,
+  "sample_sha256": "a52400419d0f777cecea80d546b7cf018d027670b27aeba593203dd59b626ba5",
+  "sample_size_bytes": 285096,
+  "total_records": 756,
+  "updated_at": "2026-04-14T14:01:28.960719+00:00"
+}
